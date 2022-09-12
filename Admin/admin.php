@@ -2,7 +2,7 @@
 
 $connect = new PDO("mysql:host=localhost; dbname=redirect; charset=utf8", 'root', '');
 
-$title = 'admin main page';
+$title = 'Admin main page';
 
 $sql = "SELECT * FROM rule";
 

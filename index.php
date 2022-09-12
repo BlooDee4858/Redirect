@@ -20,7 +20,7 @@ echo $u->GetUserBrowser()['version'];
 <form action="User/in.php" target="_blank">
 <button>Пользователь</button>
 </form>
-<form action="admin/admin.php" target="_blank">
+<form action="Admin/admin.php" target="_blank">
 <button>Админ</button>
 </form>
 </body>
