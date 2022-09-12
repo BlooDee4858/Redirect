@@ -17,10 +17,10 @@ echo $u->GetUserBrowser()['version'];
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
-<form action="in.php" target="_blank">
+<form action="User/in.php" target="_blank">
 <button>Пользователь</button>
 </form>
-<form action="admin.php" target="_blank">
+<form action="admin/admin.php" target="_blank">
 <button>Админ</button>
 </form>
 </body>
